@@ -10,8 +10,10 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola");
-            Console.WriteLine("Hala");
+            int number = 50;
+            int number2 = 400;
+
+            Console.WriteLine("Hi everyone");
         }
     }
 }
