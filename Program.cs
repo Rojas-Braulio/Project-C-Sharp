@@ -12,8 +12,10 @@ namespace TestApp
         {
             int number = 50;
             int number2 = 400;
+            int number3 = 500;
 
             Console.WriteLine("Hi everyone");
+            Console.WriteLine(number+number2+number3);
         }
     }
 }
